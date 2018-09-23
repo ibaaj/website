@@ -31,6 +31,11 @@
 - [histoire] Iran, une puissance dévoilée
 - [geek/hacking+société] Aaron swartz the internet's own boy 
 - [geek/p2p] The Pirate Bay Away From Keyboard
+- [geek] Une contre-histoire de l'Internet
+- [media] Les nouveaux chiens de garde
+- [geek] Citizenfour
+
+- [histoire/geek] Comment les maths ont vaincu Hitler
 - [histoire][film] Hitler, la naissance du mal
 - [histoire] Lenine, une autre histoire de la révolution russe 
 
