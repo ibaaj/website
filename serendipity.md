@@ -14,6 +14,8 @@
 - [social network] To sleep, perchance to tweet in-bed electronic social media use and its associations with insomnia, daytime sleepiness, mood, and sleep duration in adults
 - [psycho] Simplicity and probability in causal explanation 
 - [psycho] Coherence, Truth, and the Development of Scientific Knowledge
+- [climat] Overlooked possibility of a collapsed Atlantic Meridional Overturning Circulation in warming climate
+- [archeo] Fermented beverage and food storage in 13,000 y-old stone mortars at Raqefet Cave, Israel: Investigating Natufian ritual feasting
 
 ## Livres
 
