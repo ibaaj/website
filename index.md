@@ -12,3 +12,5 @@ I studied before mathematics applied to cryptology at Paris 7 Diderot University
  
 # Contact
 
+contact _at_ ismailbaaj _._ fr
+
