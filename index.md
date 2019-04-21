@@ -1,6 +1,6 @@
 # About
 
-I have been a Ph.D student in Artificial Intelligence with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of JP Poli, N Maudet and W Ouerdane since november 2018.
+I have been a Ph.D student in Artificial Intelligence since november 2018 with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of N Maudet (Sorbonne University, LIP6), JP Poli (CEA, LADIS), and W Ouerdane (CentraleSupelec, MICS).
 
 my subject is : *the textual justification generation for a fuzzy expert system*, involving topics such as explainable artificial intelligence, fuzzy inference and natural language generation.
 
