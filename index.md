@@ -13,6 +13,5 @@ I studied before mathematics applied to cryptology at Paris 7 Diderot University
 # Contact
 
 ismail.baaj _(at)_ cea _(.)_ fr
-
 ismail.baaj _(at)_ lip6 _(.)_ fr
 
