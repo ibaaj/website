@@ -1,6 +1,6 @@
 # About
 
-I have been a Ph.D student in Artificial Intelligence since november 2018 with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of N Maudet (Sorbonne University, LIP6), JP Poli (CEA, LADIS), and W Ouerdane (CentraleSupelec, MICS).
+I have been a PhD student in Artificial Intelligence since november 2018 with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of NMaudet (Sorbonne University, LIP6), JP Poli (CEA, LADIS), and W Ouerdane (CentraleSupelec, MICS).
 
 my subject is : *the textual justification generation for a fuzzy expert system*, involving topics such as explainable artificial intelligence, fuzzy inference and natural language generation.
 
@@ -12,5 +12,6 @@ I studied before mathematics applied to cryptology at Paris 7 Diderot University
  
 # Contact
 
-contact _at_ ismailbaaj _._ fr
+ismail.baaj _(at)_ cea _(.)_ fr
+ismail.baaj _(at)_ lip6 _(.)_ fr
 
