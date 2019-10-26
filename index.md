@@ -8,9 +8,9 @@ I studied before mathematics applied to cryptology at Paris 7 Diderot University
 
 # Publications 
 
-Baaj, I., Poli, J., & Ouerdane, W. (2019). Some Insights Towards a Unified Semantic Representation of Explanation for eXplainable Artificial Intelligence (XAI). NL4XAI workshop @ INLG 2019 International Natural Language Generation Conference, October 2019, Tokyo, Japan [https://drive.google.com/file/d/1cFQ8Qmx2vqxRuvVUXeSzTfxSW9-xYcFj/view](https://drive.google.com/file/d/1cFQ8Qmx2vqxRuvVUXeSzTfxSW9-xYcFj/view)
+Baaj, I., Poli, J., & Ouerdane, W. (2019). Some Insights Towards a Unified Semantic Representation of Explanation for eXplainable Artificial Intelligence (XAI). NL4XAI workshop @ INLG 2019 International Natural Language Generation Conference, October 2019, Tokyo, Japan - [https://drive.google.com/file/d/1cFQ8Qmx2vqxRuvVUXeSzTfxSW9-xYcFj/view](proceeding)
 
-Baaj, I.,&  Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy Inference Decisions. FUZZ-IEEE 2019 International Conference on Fuzzy Systems, June 2019, New Orleans, USA 
+Baaj, I.,&  Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy Inference Decisions. FUZZ-IEEE 2019 International Conference on Fuzzy Systems, June 2019, New Orleans, USA DOI:
 [https://doi.org/10.1109/FUZZ-IEEE.2019.8858994](https://doi.org/10.1109/FUZZ-IEEE.2019.8858994)
 
 # Contact
