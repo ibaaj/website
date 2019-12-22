@@ -2,7 +2,7 @@
 
 I have been a PhD student in Artificial Intelligence since november 2018 with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of Pr. [Nicolas Maudet](https://nmaudet.gitlab.io/) (Sorbonne University, LIP6), Dr. [Jean-Philippe Poli](https://polijp.github.io/) (CEA LIST, LI3A), and Dr. [Wassila Ouerdane](https://wassilaouerdane.github.io/) (CentraleSupelec, MICS).
 
-my subject is : *the textual justification generation for a fuzzy expert system*, involving topics such as explainable artificial intelligence, fuzzy inference and natural language generation.
+My research subject is : *the textual justification generation for a fuzzy expert system*, involving topics such as explainable artificial intelligence, fuzzy inference and natural language generation.
 
 I studied before mathematics applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
 
