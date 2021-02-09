@@ -2,9 +2,9 @@
 
 I am a PhD student in Artificial Intelligence with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of Pr. [Nicolas Maudet](https://nmaudet.gitlab.io/) (Sorbonne University, LIP6), Dr. [Wassila Ouerdane](https://wassilaouerdane.github.io/) (CentraleSupelec, MICS) and Dr. [Jean-Philippe Poli](https://polijp.github.io/) (CEA LIST, LI3A).
 
-My research subject is : *the textual justification generation for a fuzzy expert system*, involving domains such as explainable artificial intelligence, knowledge representation, fuzzy inference and natural language generation. 
+My research subject is : *the textual justification generation for a fuzzy expert system*, involving domains such as explainable artificial intelligence, knowledge representation, uncertainty modeling. 
 
-There is a legitimate demand to equip intelligent systems such as fuzzy expert systems with explanatory capabilities. The objective is to set up algorithmic tools so that these systems can produce natural language explanations of their decisions. Currently, this work has led to two scientific publications:
+There is a legitimate demand to equip intelligent systems such as fuzzy expert systems with explanatory capabilities. The objective is to set up algorithmic tools so that these systems can produce explanations of their decisions. Currently, this work has led to two scientific publications:
 
 Baaj, I., Poli, J., & Ouerdane, W. (2019). Some Insights Towards a Unified Semantic Representation of Explanation for eXplainable Artificial Intelligence (XAI). 1st Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence  @ INLG 2019 International Natural Language Generation Conference, October 2019, Tokyo, Japan -  [DOI](http://dx.doi.org/10.18653/v1/W19-8404) - [PDF](https://www.aclweb.org/anthology/W19-8404.pdf) - [slides](https://github.com/ibaaj/website/raw/master/NL4XAI_FINAL.pdf)
 
