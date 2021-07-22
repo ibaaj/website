@@ -4,6 +4,8 @@ I am a PhD student in Artificial Intelligence with the CEA (French Center for At
 
 I work on the explainability of rule-based systems (explainable artificial intelligence, knowledge representation, uncertainty modeling).  There is a legitimate demand to equip intelligent systems such as expert systems with explanatory capabilities. The objective is to set up algorithmic tools so that these systems can produce explanations of their decisions. Currently, this work has led to four scientific publications:
 
+Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. To appear. 
+
 Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia. To appear.
 
 Baaj, I., Poli, J.,  Ouerdane, W. & Maudet, N. (2021). Min-max inference for possibilistic rule-based system @ FUZZ-IEEE 2021 International Conference on Fuzzy Systems, July 2021, Luxemburg, Luxemburg. To appear.
