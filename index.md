@@ -1,6 +1,6 @@
 ## About
 
-I am a PhD student in Artificial Intelligence with the CEA (French Center for Atomic and alternative Energies) and Sorbonne University under the supervision of Pr. [Nicolas Maudet](https://nmaudet.gitlab.io/) (Sorbonne University, LIP6), Dr. [Wassila Ouerdane](https://wassilaouerdane.github.io/) (CentraleSupelec, MICS) and Dr. [Jean-Philippe Poli](https://polijp.github.io/) (CEA LIST, LI3A). I work on the explainability of fuzzy and possibilistic rule-based systems (eXplainable Artificial Intelligence, knowledge representation, uncertainty modeling).  Currently, this work has led to five scientific publications (with oral presentation):
+I am a PhD student in Artificial Intelligence with Sorbonne University under the supervision of Pr. [Nicolas Maudet](https://nmaudet.gitlab.io/) (Sorbonne University, LIP6), Dr. [Wassila Ouerdane](https://wassilaouerdane.github.io/) (CentraleSupelec, MICS) and Dr. [Jean-Philippe Poli](https://polijp.github.io/) (CEA LIST, LI3A). I work on the explainability of fuzzy and possibilistic rule-based systems (eXplainable Artificial Intelligence, knowledge representation, uncertainty modeling).  Currently, this work has led to five scientific publications (with oral presentation):
 
 Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. To appear. 
 
