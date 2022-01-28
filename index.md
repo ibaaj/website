@@ -1,6 +1,6 @@
 ## About
 
-I am a freshly-minted PhD in Artificial Intelligence. I work on the explainability of fuzzy and possibilistic rule-based systems (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Uncertainty modeling):
+I am a freshly-minted PhD in Artificial Intelligence. I defended my PhD thesis entilted "Explainaibility of possibilistic and fuzzy rule-based system" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Uncertainty modeling): on January 27th, 2022 at Sorbonne University. This work has led to the following publications (with oral presentation):
 
 Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. To appear. 
 
