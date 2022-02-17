@@ -1,6 +1,15 @@
-## About
+- [About](#about)
+- [Publications](#publications)
+- [Contact](#Contact) 
 
-I am a freshly-minted PhD in Artificial Intelligence. I defended my PhD thesis entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Uncertainty modeling) on January 27th, 2022 at Sorbonne University. This work has led to the following publications (with oral presentation):
+## <a name="about"></a>About
+
+I am a freshly-minted PhD in Artificial Intelligence. I defended my PhD thesis entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Uncertainty modeling) on January 27th, 2022 at Sorbonne University. 
+
+I studied before mathematics applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
+
+## <a name="publications"></a>Publications
+
 
 Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. 
 
@@ -13,9 +22,7 @@ Baaj, I., Poli, J., & Ouerdane, W. (2019). Some Insights Towards a Unified Seman
 Baaj, I.,&  Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy Inference Decisions. FUZZ-IEEE 2019 International Conference on Fuzzy Systems, June 2019, New Orleans, USA - 
 [DOI](https://doi.org/10.1109/FUZZ-IEEE.2019.8858994).
 
-I studied before mathematics applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
-
-## Contact
+## <a name="contact"></a>Contact
 
 ismail.baaj _(at)_ lip6 _(.)_ fr
 
