@@ -27,6 +27,7 @@ Baaj, I. & Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy
 
 - ismail.baaj _(at)_ lip6 _(.)_ fr
 - PGP: [Public key](https://ismailbaaj.fr/ib-public.asc) 
-  CDFEF3E73F406A5959A05077D4AE6EC9A31D694C 
+  CDFEF3E73F406A5959A05077D4AE6EC9A31D694C   
+  
   ```curl https://ismailbaaj.fr/ib-public.asc | gpg --import```
 
