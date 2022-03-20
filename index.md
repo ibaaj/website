@@ -27,6 +27,6 @@ Baaj, I. & Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy
 
 - ismail.baaj _(at)_ lip6 _(.)_ fr
 - PGP: [Download public key](http://ismailbaaj.fr/ibpk.asc) - 
-  Fingerprint: CDFEF3E73F406A5959A05077D4AE6EC9A31D694C - 
+  Fingerprint: FBA9890E004C8EF3EAF0A97D45996126A5B189DB - 
   ```curl http://ismailbaaj.fr/ibpk.asc | gpg --import```
 
