@@ -11,7 +11,6 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ## <a name="publications"></a>Publications
 
-
 Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. 
 
 Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia - [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37).
@@ -22,6 +21,8 @@ Baaj, I., Poli, J. & Ouerdane, W. (2019). Some Insights Towards a Unified Semant
 
 Baaj, I. & Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy Inference Decisions. FUZZ-IEEE 2019 International Conference on Fuzzy Systems, June 2019, New Orleans, USA - 
 [DOI](https://doi.org/10.1109/FUZZ-IEEE.2019.8858994).
+
+ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
 ## <a name="contact"></a>Contact
 
