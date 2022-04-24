@@ -1,7 +1,7 @@
 # Ismaïl Baaj
 - [About](#about)
 - [Publications](#publications)
-- [Contact](#Contact) 
+- [Contact](#contact) 
 
 ## <a name="about"></a>About
 
@@ -11,13 +11,27 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document).
+Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>@phdthesis{baaj:tel-03647652,
+  TITLE = {{Explainability of possibilistic and fuzzy rule-based systems}},
+  AUTHOR = {Baaj, Ismaïl},
+  URL = {https://tel.archives-ouvertes.fr/tel-03647652},
+  NUMBER = {2022SORUS021},
+  SCHOOL = {{Sorbonne Universit{\'e}}},
+  YEAR = {2022},
+  MONTH = Jan,
+  KEYWORDS = {Explainable artificial intelligence ; Knowledge representation and reasoning ; Rule-based system ; Possibility theory ; Fuzzy logic ; Conceptual graphs ; Intelligence artificielle explicable ; Repr{\'e}sentation des connaissances et raisonnement ; Syst{\`e}me {\`a} base de r{\`e}gles ; Th{\'e}orie des possibilit{\'e}s ; Logique floue ; Graphes conceptuels},
+  TYPE = {Theses},
+  PDF = {https://tel.archives-ouvertes.fr/tel-03647652/file/BAAJ_Ismail_2022.pdf},
+  HAL_ID = {tel-03647652},
+  HAL_VERSION = {v1},
+}
+</details>
 
-Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. 
+Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). 
 
-Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia - [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37).
+Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia - [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems).
 
-Baaj, I., Poli, J.,  Ouerdane, W. & Maudet, N. (2021). Min-max inference for possibilistic rule-based system @ FUZZ-IEEE 2021 International Conference on Fuzzy Systems, July 2021, Luxemburg, Luxemburg - [DOI](https://doi.org/10.1109/FUZZ45933.2021.9494506).
+Baaj, I., Poli, J.,  Ouerdane, W. & Maudet, N. (2021). Min-max inference for possibilistic rule-based system @ FUZZ-IEEE 2021 International Conference on Fuzzy Systems, July 2021, Luxemburg, Luxemburg - [DOI](https://doi.org/10.1109/FUZZ45933.2021.9494506) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems).
 
 Baaj, I., Poli, J. & Ouerdane, W. (2019). Some Insights Towards a Unified Semantic Representation of Explanation for eXplainable Artificial Intelligence (XAI). 1st Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence  @ INLG 2019 International Natural Language Generation Conference, October 2019, Tokyo, Japan - [DOI](http://dx.doi.org/10.18653/v1/W19-8404).
 
