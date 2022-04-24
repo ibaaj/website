@@ -11,7 +11,7 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>@phdthesis{baaj:tel-03647652,
+Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@phdthesis{baaj:tel-03647652,
   TITLE = {{Explainability of possibilistic and fuzzy rule-based systems}},
   AUTHOR = {Baaj, Ismaïl},
   URL = {https://tel.archives-ouvertes.fr/tel-03647652},
@@ -24,10 +24,10 @@ Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. P
   PDF = {https://tel.archives-ouvertes.fr/tel-03647652/file/BAAJ_Ismail_2022.pdf},
   HAL_ID = {tel-03647652},
   HAL_VERSION = {v1},
-}
+}```
 </details>
 
-Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>@inproceedings{baaj:cea-03402616,
+Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes @ LFA 2021 Rencontres Francophones sur la Logique Floue et ses Applications, October 2021, Paris, France. - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@inproceedings{baaj:cea-03402616,
   TITLE = {{Inf{\'e}rence min-max pour un syst{\`e}me {\`a} base de r{\`e}gles possibilistes}},
   AUTHOR = {BAAJ, Isma{\"i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
   URL = {https://hal-cea.archives-ouvertes.fr/cea-03402616},
@@ -44,10 +44,10 @@ Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Inférence min-max pour un
   PDF = {https://hal-cea.archives-ouvertes.fr/cea-03402616/file/LFA__inf_rence_min_max_pour_un_syst_me___base_de_r_gles_possibilistes.pdf},
   HAL_ID = {cea-03402616},
   HAL_VERSION = {v1},
-}
+}```
 </details>
 
-Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia - [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>
+Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions @ ECSQARU 2021 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty, September 2021, Prague, Czechia - [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
 @inproceedings{baaj2021representation,
   title={Representation of Explanations of Possibilistic Inference Decisions},
   author={Baaj, Isma{\"\i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
@@ -55,10 +55,10 @@ Baaj, I., Poli, J., Ouerdane, W. & Maudet, N. (2021). Representation of Explanat
   pages={513--527},
   year={2021},
   organization={Springer}
-}
+}```
 </details>
 
-Baaj, I., Poli, J.,  Ouerdane, W. & Maudet, N. (2021). Min-max inference for possibilistic rule-based system @ FUZZ-IEEE 2021 International Conference on Fuzzy Systems, July 2021, Luxemburg, Luxemburg - [DOI](https://doi.org/10.1109/FUZZ45933.2021.9494506) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>
+Baaj, I., Poli, J.,  Ouerdane, W. & Maudet, N. (2021). Min-max inference for possibilistic rule-based system @ FUZZ-IEEE 2021 International Conference on Fuzzy Systems, July 2021, Luxemburg, Luxemburg - [DOI](https://doi.org/10.1109/FUZZ45933.2021.9494506) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
 @inproceedings{baaj2021min,
   title={Min-max inference for Possibilistic Rule-Based System},
   author={Baaj, Isma{\"\i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
@@ -66,24 +66,24 @@ Baaj, I., Poli, J.,  Ouerdane, W. & Maudet, N. (2021). Min-max inference for pos
   pages={1--6},
   year={2021},
   organization={IEEE}
-}
+}```
 </details>
 
 
 Baaj, I., Poli, J. & Ouerdane, W. (2019). Some Insights Towards a Unified Semantic Representation of Explanation for eXplainable Artificial Intelligence (XAI). 1st Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence  @ INLG 2019 International Natural Language Generation Conference, October 2019, Tokyo, Japan - [DOI](http://dx.doi.org/10.18653/v1/W19-8404).
-<details><summary>bibtex</summary>
+<details><summary>bibtex</summary>```
 @inproceedings{baaj2019some,
   title={Some insights towards a unified semantic representation of explanation for explainable artificial intelligence},
   author={Baaj, Isma{\"\i}l and Poli, Jean-Philippe and Ouerdane, Wassila},
   booktitle={Proceedings of the 1st Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence (NL4XAI 2019)},
   pages={14--19},
   year={2019}
-}
+}```
 </details>
 
 Baaj, I. & Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy Inference Decisions. FUZZ-IEEE 2019 International Conference on Fuzzy Systems, June 2019, New Orleans, USA - 
 [DOI](https://doi.org/10.1109/FUZZ-IEEE.2019.8858994).
-<details><summary>bibtex</summary>
+<details><summary>bibtex</summary>```
 @inproceedings{baaj2019natural,
   title={Natural language generation of explanations of fuzzy inference decisions},
   author={Baaj, Isma{\"\i}l and Poli, Jean-Philippe},
@@ -91,7 +91,7 @@ Baaj, I. & Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy
   pages={1--6},
   year={2019},
   organization={IEEE}
-}
+}```
 </details>
 
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
