@@ -11,7 +11,7 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@phdthesis{baaj:tel-03647652,
+Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems. PhD Thesis. - [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@phdthesis{baaj:tel-03647652,
   TITLE = {{Explainability of possibilistic and fuzzy rule-based systems}},
   AUTHOR = {Baaj, Ismaïl},
   URL = {https://tel.archives-ouvertes.fr/tel-03647652},
