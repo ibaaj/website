@@ -9,6 +9,9 @@ I am a freshly-minted PhD in Artificial Intelligence. I defended my PhD thesis e
 
 I studied before mathematics and computer science applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
 
+ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
+
+
 ## <a name="publications"></a>Publications
 
 Baaj, I. (2022). Learning Rule Parameters of Possibilistic Rule-Based System @ FUZZ-IEEE 2022 International Conference on Fuzzy Systems, July 2022, Padua, Italy. To appear (accepted).
@@ -99,7 +102,6 @@ Baaj, I. & Poli, J. (2019). Natural Language Generation of Explanations of Fuzzy
 }```
 </details>
 
-ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
 ## <a name="contact"></a>Contact
 
