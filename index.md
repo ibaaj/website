@@ -35,7 +35,7 @@ Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems (D
 }```
 </details>
 
-Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, October). Inférence min-max pour un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications (pp. 233-240). Cepadues. [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@inproceedings{baaj:cea-03402616,
+Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, October). Inférence min-max pour un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications (pp. 233-240). Cepadues. [PDF](https://hal-cea.archives-ouvertes.fr/cea-03402616/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@inproceedings{baaj:cea-03402616,
   TITLE = {{Inf{\'e}rence min-max pour un syst{\`e}me {\`a} base de r{\`e}gles possibilistes}},
   AUTHOR = {BAAJ, Isma{\"i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
   URL = {https://hal-cea.archives-ouvertes.fr/cea-03402616},
