@@ -5,7 +5,7 @@
 
 ## <a name="about"></a>About
 
-I am a freshly-minted PhD in Artificial Intelligence. I defended my PhD thesis entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Uncertainty modeling) on January 27th, 2022 at Sorbonne University. 
+I am a freshly-minted PhD in Artificial Intelligence. I defended my PhD thesis entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Uncertainty modeling) on January 27th, 2022 at Sorbonne University [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf).
 
 I studied before mathematics and computer science applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
 
@@ -19,7 +19,7 @@ Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based Syst
 Baaj, I., & Rico, A. (2022, July). Qualitative integrals with Gödel's implication and conjunction: elicitation and if-then rules extraction. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. To appear (accepted).
 
 
-Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems (Doctoral dissertation, Sorbonne Université). [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@phdthesis{baaj:tel-03647652,
+Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems (Doctoral dissertation, Sorbonne Université). [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf). <details><summary>bibtex</summary>```@phdthesis{baaj:tel-03647652,
   TITLE = {{Explainability of possibilistic and fuzzy rule-based systems}},
   AUTHOR = {Baaj, Ismaïl},
   URL = {https://tel.archives-ouvertes.fr/tel-03647652},
