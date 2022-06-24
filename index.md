@@ -5,9 +5,9 @@
 
 ## <a name="about"></a>About
 
-Currently, I am a postdoctoral researcher at Telecom SudParis/Institut Polytechnique de Paris, involved in the CERES project of the [CIEDS](https://www.ip-paris.fr/en/research/interdisciplinary-centers/cieds-interdisciplinary-centre-defence-and-security) (possibilistic rule-based systems, knowledge representation and reasoning).
+<!--Currently, I am a postdoctoral researcher at Telecom SudParis/Institut Polytechnique de Paris, involved in the CERES project of the [CIEDS](https://www.ip-paris.fr/en/research/interdisciplinary-centers/cieds-interdisciplinary-centre-defence-and-security) (possibilistic rule-based systems, knowledge representation and reasoning).
 
-Prior to that, I defended my PhD thesis in Artificial Intelligence entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Possibility theory, Fuzzy reasoning) on January 27th, 2022 at Sorbonne University. [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf).
+Prior to that, -->I defended my PhD thesis in Artificial Intelligence entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Possibility theory, Fuzzy reasoning) on January 27th, 2022 at Sorbonne University. [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf).
 
 I studied before mathematics and computer science applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
 
