@@ -18,6 +18,12 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 ## <a name="publications"></a>Publications
 
+Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: en quête d'interprétabilité. Cepadues. To appear (accepted).
+
+Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. To appear (accepted).
+
+Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues. To appear (accepted).
+
 Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. To appear (accepted).
 
 Baaj, I., & Rico, A. (2022, July). Qualitative integrals with Gödel's implication and conjunction: elicitation and if-then rules extraction. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. To appear (accepted).
