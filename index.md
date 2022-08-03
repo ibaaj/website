@@ -18,7 +18,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 ## <a name="publications"></a>Publications
 
-Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: en quête d'interprétabilité. Cepadues. To appear (accepted).
+Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: un cadre qualitatif. Cepadues. To appear (accepted).
 
 Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. To appear (accepted).
 
