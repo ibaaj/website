@@ -24,10 +24,39 @@ Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implicati
 
 Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues. To appear (accepted).
 
-Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. To appear (accepted).
+Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882626) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
+ @INPROCEEDINGS{baaj2022learning,
+  author={Baaj, Ismaïl},
+  booktitle={2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, 
+  title={Learning Rule Parameters of Possibilistic Rule-Based System}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  abstract={In this paper, we introduce a learning paradigm of the rule parameters of a possibilistic rule-based system, given training data. For a rule-based system composed of n if-then parallel possibilistic rules, we introduce an equation system denoted (Σn), which is analogous to the Farreny-Prade equation system. The unknown part of the system (Σn) is a vector composed of the rule parameters, whose values must be determined according to training data.We establish necessary and sufficient conditions for the system (Σn) to be consistent. If this is the case, we show that the set of solutions of the system is a Cartesian product of subintervals of [0, 1] whose bounds are computed. Then, we deduce that there are a unique maximal solution and, as it is well known by Sanchez’s work on the solving of min-max fuzzy relational equations, a unique minimal one. These results are proved by relating the solutions of (Σn) to those of the equation system given by the first n − 1 possibilistic rules equipped with a second member which is constructed from that of (Σn).Finally, our results are illustrated by an example.},
+  keywords={},
+  doi={10.1109/FUZZ-IEEE55066.2022.9882626},
+  ISSN={1558-4739},
+  month={July},
+ }```
+</details>
 
-Baaj, I., & Rico, A. (2022, July). Qualitative integrals with Gödel's implication and conjunction: elicitation and if-then rules extraction. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. To appear (accepted).
-
+Baaj, I., & Rico, A. (2022, July). Qualitative integrals with Gödel's implication and conjunction: elicitation and if-then rules extraction. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882800) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems).<details><summary>bibtex</summary>```
+ @INPROCEEDINGS{baaj2022qualitative,
+  author={Baaj, Ismaïl and Rico, Agnès},
+  booktitle={2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, 
+  title={Qualitative integrals with Gödel’s implication and conjunction: elicitation and if-then rules extraction}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  abstract={In this article, we explore the properties of the two generalized Sugeno integrals that we obtain by substituting in the expression of a classical Sugeno integral, the Kleene-Dienes conjunction and the Kleene-Dienes implication by the Gödel conjunction and the Gödel implication, respectively.A major difference compared to the classical Sugeno integrals is that the implication-based Gödel integral and the conjunction-based Gödel integral do not return the same result. In this paper, we investigate the adaptation of classical results for Sugeno integrals to Gödel integrals. Namely, their elicitation according to a piece of data and the extraction of selection and elimination if-then rules. The selection rules are obtained from the focal sets of the capacity underlying a conjunction-based Gödel integral, while the elimination rules are extracted from the focal sets of the conjugate of the capacity defining an implication-based Gödel integral.To illustrate our results, we apply our constructions to a real data example already used for Sugeno integrals.},
+  keywords={},
+  doi={10.1109/FUZZ-IEEE55066.2022.9882800},
+  ISSN={1558-4739},
+  month={July},
+ }```
+</details>
 
 Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems (Doctoral dissertation, Sorbonne Université). [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf). <details><summary>bibtex</summary>```@phdthesis{baaj:tel-03647652,
   TITLE = {{Explainability of possibilistic and fuzzy rule-based systems}},
