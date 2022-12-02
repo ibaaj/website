@@ -1,7 +1,8 @@
 # Ismaïl Baaj
 - [About](#about)
 - [Publications](#publications)
-- [Contact](#contact) 
+- [Contact](#contact)
+- [Miscellaneous](#misc)
 
 ## <a name="about"></a>About
 
@@ -145,3 +146,6 @@ Baaj, I., & Poli, J. P. (2019, June). Natural language generation of explanation
   Fingerprint: FBA9890E004C8EF3EAF0A97D45996126A5B189DB - 
   ```curl https://ismailbaaj.fr/ibpk.asc | gpg --import```
 
+## <a name="misc"></a> Miscellaneous
+
+- [My scientific genealogy](https://raw.githubusercontent.com/ibaaj/website/master/scientificgenealogy.pdf) 
