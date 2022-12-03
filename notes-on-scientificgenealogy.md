@@ -2,7 +2,9 @@ It took me several months to find my scientific genealogy. You should know that 
 Here are some useful resources to find your scientific genealogy:
 - https://academictree.org/
 - https://mathgenealogy.org/ (90% of my tree comes from this site)
-- theses.fr 
+- theses.fr
+- idref 
+- Worldcat
 - Bibliothèque National de France (BNF): I had to contact the BNF to get a scan of the first pages of a thesis
 - Borrowing dissertations from university libraries
 - HAL open archives 
