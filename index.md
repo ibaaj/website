@@ -148,4 +148,4 @@ Baaj, I., & Poli, J. P. (2019, June). Natural language generation of explanation
 
 ## <a name="misc"></a> Miscellaneous
 
-- [My scientific genealogy](https://raw.githubusercontent.com/ibaaj/website/master/scientificgenealogy.pdf) ([source](https://github.com/ibaaj/scientific-genealogy/blob/main/README.md))
+- [My scientific genealogy](https://raw.githubusercontent.com/ibaaj/website/master/scientificgenealogy.pdf) ([source](https://github.com/ibaaj/scientific-genealogy/))
