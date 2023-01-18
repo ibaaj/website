@@ -14,14 +14,29 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
+## <a name="preprint"></a>Preprint
+
+Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data." arXiv preprint arxiv.2301.06141 (2023). [PDF/DOI](https://doi.org/10.48550/arxiv.2301.06141) - [code](https://github.com/ibaaj/MaxMin-Learning-Of-Approximate-Weight-Matrices-From-Fuzzy-Data). 
+<details><summary>bibtex</summary>```
+@misc{https://doi.org/10.48550/arxiv.2301.06141,
+  doi = {10.48550/ARXIV.2301.06141},
+  url = {https://arxiv.org/abs/2301.06141},
+  author = {Baaj, Ismaïl},
+  keywords = {Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Max-min Learning of Approximate Weight Matrices from Fuzzy Data},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}}```
+</details>
+
 
 ## <a name="publications"></a>Publications
 
-Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: un cadre qualitatif. Cepadues. To appear (accepted).
+Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: un cadre qualitatif. Cepadues. 
 
-Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. To appear (accepted).
+Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. 
 
-Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues. To appear (accepted).
+Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues.
 
 Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882626) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
  @INPROCEEDINGS{baaj2022learning,
