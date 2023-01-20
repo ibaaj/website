@@ -1,5 +1,6 @@
 # Ismaïl Baaj
 - [About](#about)
+- [Preprint](#preprint)
 - [Publications](#publications)
 - [Contact](#contact)
 - [Miscellaneous](#misc)
