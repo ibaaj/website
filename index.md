@@ -17,7 +17,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 ## <a name="preprint"></a>Preprint
 
-Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data." arXiv preprint arxiv.2301.06141 (2023). [PDF/DOI](https://doi.org/10.48550/arxiv.2301.06141) - [code](https://github.com/ibaaj/MaxMin-Learning-Of-Approximate-Weight-Matrices-From-Fuzzy-Data). 
+Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data." arXiv preprint arxiv.2301.06141 (2023). [PDF/DOI](https://doi.org/10.48550/arxiv.2301.06141).
 <details><summary>bibtex</summary>```
 @misc{https://doi.org/10.48550/arxiv.2301.06141,
   doi = {10.48550/ARXIV.2301.06141},
