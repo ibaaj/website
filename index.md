@@ -17,6 +17,21 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 ## <a name="preprint"></a>Preprint
 
+Baaj, Ismaïl. "Chebyshev distances associated to the second members of systems of Max-product/Lukasiewicz Fuzzy relational equations." arXiv preprint arxiv.2302.08554 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2302.08554).
+<details><summary>bibtex</summary>```
+@misc{https://doi.org/10.48550/arxiv.2302.08554,
+  doi = {10.48550/ARXIV.2302.08554},
+  url = {https://arxiv.org/abs/2302.08554},
+  author = {Baaj, Ismaïl},
+  keywords = {Artificial Intelligence (cs.AI), Logic in Computer Science (cs.LO), Logic (math.LO), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Mathematics, FOS: Mathematics},
+  title = {Chebyshev distances associated to the second members of systems of Max-product/Lukasiewicz Fuzzy relational equations},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
+</details>
+
 Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data." arXiv preprint arxiv.2301.06141 (2023). [PDF/DOI](https://doi.org/10.48550/arxiv.2301.06141).
 <details><summary>bibtex</summary>```
 @misc{https://doi.org/10.48550/arxiv.2301.06141,
