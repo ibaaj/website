@@ -45,7 +45,7 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
   copyright = {Creative Commons Attribution 4.0 International}}```
 </details>
 
-A presentation of these two preprints is available [here](https://raw.githubusercontent.com/ibaaj/website/master/slides-max-T.pdf).
+
 
 ## <a name="publications"></a>Publications
 
