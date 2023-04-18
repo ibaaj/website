@@ -8,7 +8,8 @@
 - [Miscellaneous](#misc)
 
 ## <a name="about"></a>About
-![image alt >](https://raw.githubusercontent.com/ibaaj/website/master/me50.jpg)
+<img style="float: right;" src="https://raw.githubusercontent.com/ibaaj/website/master/me50.jpg">
+
 Currently, I am a postdoctoral researcher at [CRIL, University of Artois](http://www.cril.univ-artois.fr/). Prior to that, I defended my PhD thesis in Artificial Intelligence entilted "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Possibility theory, Fuzzy reasoning) on January 27th, 2022 at Sorbonne University. [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf).
 
 I studied before mathematics and computer science applied to cryptology at Paris 7 Diderot University and artificial intelligence at Paris 5 Descartes University.
