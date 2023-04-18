@@ -1,5 +1,5 @@
 # Ismaïl Baaj
-![image alt >](https://raw.githubusercontent.com/ibaaj/website/master/me.jpg)
+![image alt >](https://raw.githubusercontent.com/ibaaj/website/master/me50.jpg)
 
 - [About](#about)
 - [Preprint](#preprint)
