@@ -2,7 +2,7 @@
 
 
 - [About](#about)
-- [Preprint](#preprint)
+- [Preprints](#preprints)
 - [Publications](#publications)
 - [Contact](#contact)
 - [Miscellaneous](#misc)
@@ -18,7 +18,7 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
-## <a name="preprint"></a>Preprints
+## <a name="preprints"></a>Preprints
 
 Baaj, Ismaïl. "Chebyshev distances associated to the second members of systems of Max-product/Lukasiewicz Fuzzy relational equations." arXiv preprint arxiv.2302.08554 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2302.08554).
 <details><summary>bibtex</summary>```
