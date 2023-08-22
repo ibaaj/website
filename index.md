@@ -52,6 +52,8 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
+Baaj, I. (2023, November). Approximations de Tchebyshev d'un système incompatible d'équations relationnelles floues de type max-T. In Rencontres francophones sur la logique floue et ses applications. Cepadues (To appear).
+
 Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: un cadre qualitatif. Cepadues. 
 
 Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. 
