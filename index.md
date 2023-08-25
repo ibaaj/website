@@ -22,9 +22,9 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 Baaj, Ismaïl. "Handling the inconsistency of systems of min→ fuzzy relational equations." arXiv preprint arXiv:2308.12385 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2308.12385).
 <details><summary>bibtex</summary>```
-@ARTICLE{2023arXiv230812385B,
-       author = {{Baaj}, Isma{\"\i}l},
-        title = "{Handling the inconsistency of systems of $\min\rightarrow$ fuzzy relational equations}",
+@article{2023arXiv230812385B,
+       author = {Baaj, Ismaïl},
+        title = "{Handling the inconsistency of systems of min→ fuzzy relational equations}",
       journal = {arXiv e-prints},
      keywords = {Computer Science - Artificial Intelligence, Computer Science - Logic in Computer Science},
          year = 2023,
@@ -42,7 +42,7 @@ archivePrefix = {arXiv},
 
 Baaj, Ismaïl. "Chebyshev distances associated to the second members of systems of Max-product/Lukasiewicz Fuzzy relational equations." arXiv preprint arxiv.2302.08554 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2302.08554).
 <details><summary>bibtex</summary>```
-@misc{https://doi.org/10.48550/arxiv.2302.08554,
+@article{https://doi.org/10.48550/arxiv.2302.08554,
   doi = {10.48550/ARXIV.2302.08554},
   url = {https://arxiv.org/abs/2302.08554},
   author = {Baaj, Ismaïl},
