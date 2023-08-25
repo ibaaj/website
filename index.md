@@ -35,9 +35,7 @@ archivePrefix = {arXiv},
        eprint = {2308.12385},
  primaryClass = {cs.AI},
  copyright = {Creative Commons Attribution 4.0 International}
-}
-```
-</details>
+}```</details>
 
 
 Baaj, Ismaïl. "Chebyshev distances associated to the second members of systems of Max-product/Lukasiewicz Fuzzy relational equations." arXiv preprint arxiv.2302.08554 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2302.08554).
