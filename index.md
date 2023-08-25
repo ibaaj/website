@@ -24,7 +24,7 @@ Baaj, Ismaïl. "Handling the inconsistency of systems of min→ fuzzy relational
 <details><summary>bibtex</summary>```
 @article{2023arXiv230812385B,
        author = {Baaj, Ismaïl},
-        title = "{Handling the inconsistency of systems of min→ fuzzy relational equations}",
+        title = {Handling the inconsistency of systems of min→ fuzzy relational equations},
       journal = {arXiv e-prints},
      keywords = {Computer Science - Artificial Intelligence, Computer Science - Logic in Computer Science},
          year = 2023,
