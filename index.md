@@ -32,9 +32,7 @@ Baaj, Ismaïl. "Maximal Consistent Subsystems of Max-T Fuzzy Relational Equation
         pages = {arXiv:2311.03059},
 archivePrefix = {arXiv},
        eprint = {2311.03059},
- primaryClass = {cs.AI},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv231103059B},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+ primaryClass = {cs.AI}
 }
 ```</details>
 
