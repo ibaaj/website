@@ -20,6 +20,24 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 ## <a name="preprints"></a>Preprints
 
+Baaj, Ismaïl. "Maximal Consistent Subsystems of Max-T Fuzzy Relational Equations." arXiv preprint arXiv:2311.03059 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2311.03059).
+<details><summary>bibtex</summary>```@ARTICLE{2023arXiv231103059B,
+       author = {{Baaj}, Isma{\"\i}l},
+        title = "{Maximal Consistent Subsystems of Max-T Fuzzy Relational Equations}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Artificial Intelligence, Computer Science - Logic in Computer Science},
+         year = 2023,
+        month = nov,
+          eid = {arXiv:2311.03059},
+        pages = {arXiv:2311.03059},
+archivePrefix = {arXiv},
+       eprint = {2311.03059},
+ primaryClass = {cs.AI},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv231103059B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```</details>
+
 Baaj, Ismaïl. "Handling the inconsistency of systems of min→ fuzzy relational equations." arXiv preprint arXiv:2308.12385 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2308.12385).
 <details><summary>bibtex</summary>```
 @article{2023arXiv230812385B,
