@@ -33,8 +33,7 @@ Baaj, Ismaïl. "Maximal Consistent Subsystems of Max-T Fuzzy Relational Equation
 archivePrefix = {arXiv},
        eprint = {2311.03059},
  primaryClass = {cs.AI}
-}
-```</details>
+}```</details>
 
 Baaj, Ismaïl. "Handling the inconsistency of systems of min→ fuzzy relational equations." arXiv preprint arXiv:2308.12385 (2023). [PDF/DOI](https://doi.org/10.48550/arXiv.2308.12385).
 <details><summary>bibtex</summary>```
