@@ -91,7 +91,7 @@ Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October
 
 Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. 
 
-Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues.
+Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-03859322v1/document).
 
 Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882626) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
  @INPROCEEDINGS{baaj2022learning,
