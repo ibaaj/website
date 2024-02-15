@@ -85,7 +85,8 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2024). On The Handling Of Inconsistent Systems Of Max-min Fuzzy Relational Equations. Fuzzy Sets and Systems. (accepted)
+Baaj, I. (2024).  On the handling of inconsistent systems of max-min fuzzy relational equations,
+Fuzzy Sets and Systems. 2024. 108912. ISSN 0165-0114. [DOI](https://doi.org/10.1016/j.fss.2024.108912).
 
 
 Baaj, I. (2023, November). Approximations de Tchebyshev d'un système incompatible d'équations relationnelles floues de type max-T. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-04306807v1/document).
