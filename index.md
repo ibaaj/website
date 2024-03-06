@@ -87,7 +87,22 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 Baaj, I. (2024).  On the handling of inconsistent systems of max-min fuzzy relational equations,
 Fuzzy Sets and Systems. 2024. 108912. ISSN 0165-0114. [DOI](https://doi.org/10.1016/j.fss.2024.108912).
-
+<details><summary>bibtex</summary>```
+@article{BAAJ2024108912,
+	abstract = {In this article, we study the inconsistency of systems of max-min fuzzy relational equations. We first compute by an explicit analytical formula the Chebyshev distance (defined by the L-infinity norm) between the second member of an inconsistent system and the set of second members of consistent systems defined with the same matrix: that of the inconsistent system. Then we study the set of Chebyshev approximations of the second member of the inconsistent system, which are the second members of the consistent systems defined with the same matrix as the inconsistent system, whose distance to the second member of the inconsistent system is equal to the computed Chebyshev distance. This set is non-empty and associated to the approximate solutions set of the inconsistent system in the following sense: an approximate solution is a solution vector of a consistent system defined with the same matrix as the inconsistent system, whose second member is a Chebyshev approximation of the second member of the inconsistent system. As main results, we describe both the structure of the approximate solutions set and that of the set of the Chebyshev approximations of the second member of the inconsistent system. As an application of our results, we show that our work can help to find approximate values for the rule parameters of a possibilistic rule-based system.},
+	author = {Isma{\"\i}l Baaj},
+	doi = {https://doi.org/10.1016/j.fss.2024.108912},
+	issn = {0165-0114},
+	journal = {Fuzzy Sets and Systems},
+	keywords = {Fuzzy relations, Systems of fuzzy relational equations, Possibility theory},
+	pages = {108912},
+	title = {On the handling of inconsistent systems of max-min fuzzy relational equations},
+	url = {https://www.sciencedirect.com/science/article/pii/S0165011424000587},
+	volume = {482},
+	year = {2024},
+	bdsk-url-1 = {https://www.sciencedirect.com/science/article/pii/S0165011424000587},
+	bdsk-url-2 = {https://doi.org/10.1016/j.fss.2024.108912}}
+```</details>
 
 Baaj, I. (2023, November). Approximations de Tchebyshev d'un système incompatible d'équations relationnelles floues de type max-T. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-04306807v1/document).
 
