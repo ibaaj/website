@@ -20,7 +20,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 
 ## <a name="preprints"></a>Preprints
 <p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="400" height="auto" />
+<img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="400" height="auto" /><br/>
 <span style="font-size:0.5em;">(illustration inspired by <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this article</a>)</span>
 </p>
 
