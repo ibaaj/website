@@ -89,7 +89,7 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2024, November). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues Cepadues. To appear.
+Baaj, I. (2024, November). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues. Cepadues. To appear.
 
 Baaj, I., Bouraoui, Z., Cornuéjols, A., Denœux, T., Destercke, S., Dubois, D.,  Lesot M., Marques-Silva J.,  Mengin J., Prade H., Schockaert S., Serrurier M., Strauss O., Vrain, C. (2024). Synergies Between Machine Learning and Reasoning - An Introduction by the Kay R. Amel group. International Journal of Approximate Reasoning, 109206. [DOI](https://doi.org/10.1016/j.ijar.2024.109206).
 
