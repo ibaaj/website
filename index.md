@@ -23,7 +23,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 <img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="450" height="auto" /><br/>
 <span style="text-align:left;font-size:0.4em;">(illustration from <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this book</a>)</span>
 </p>
-Baaj, Ismaïl. "On learning capacities of Sugeno integrals with systems of fuzzy relational equations." arXiv preprint arXiv:2408.07768 (2024). [PDF/DOI](https:/doi.org/10.48550/arXiv.2408.07768).
+Baaj, Ismaïl. "On learning capacities of Sugeno integrals with systems of fuzzy relational equations." arXiv preprint arXiv:2408.07768 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2408.07768).
 <details><summary>bibtex</summary>```@ARTICLE{2023arXiv231103059B,
        author = {{Baaj}, Isma{\"\i}l},
         title = "{On learning capacities of Sugeno integrals with systems of fuzzy relational equations}",
