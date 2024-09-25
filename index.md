@@ -104,6 +104,9 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
+Baaj, I. (2024). On the handling of inconsistent systems based on max-product and max-Lukasiewicz compositions Fuzzy Sets and Systems. 2024. To Appear.
+
+
 Baaj, I. (2024, November). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues. Cepadues. To appear.
 
 Strauss, 0., Rico, A., Baaj, I. & Chevrollier-Mehat, A. (2024, November). Apprentissage d'un réseau de neurones MaxMin. Cepadues. To appear.
