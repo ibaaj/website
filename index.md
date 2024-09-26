@@ -243,7 +243,6 @@ Baaj, I., & Poli, J. P. (2019, June). Natural language generation of explanation
 
 ## <a name="contact"></a>Contact
 - Université Paris-Panthéon-Assas
-
 LEMMA, 4 rue Blaise Desgoffe 75006 Paris
 - ismail.baaj _(at)_ u-paris2 _(.)_ fr
 - PGP: [Download public key](https://ismailbaaj.fr/ibpk.asc) - 
