@@ -19,6 +19,8 @@ I studied before mathematics and computer science applied to cryptology at Paris
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
 ## <a name="preprints"></a>Preprints
+([my arXiv RSS feed ](https://arxiv.org/a/baaj_i_1.atom))
+
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="450" height="auto" /><br/>
 <span style="text-align:left;font-size:0.4em;">(illustration from <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this book</a>)</span>
@@ -104,7 +106,7 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2024). On the handling of inconsistent systems based on max-product and max-Lukasiewicz compositions. Fuzzy Sets and Systems. 2024. ISSN 0165-0114. To Appear.
+Baaj, I. (2024). On the handling of inconsistent systems based on max-product and max-Lukasiewicz compositions. Fuzzy Sets and Systems. ISSN 0165-0114. To Appear.
 
 
 Baaj, I. (2024, November). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues. Cepadues. To appear.
