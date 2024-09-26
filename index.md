@@ -19,7 +19,7 @@ I studied before mathematics and computer science applied to cryptology at Paris
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
 ## <a name="preprints"></a>Preprints
-([my arXiv RSS feed ](https://arxiv.org/a/baaj_i_1.atom))
+( [my arXiv RSS feed ](https://arxiv.org/a/baaj_i_1.atom) )
 
 <p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="450" height="auto" /><br/>
