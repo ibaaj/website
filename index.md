@@ -25,7 +25,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 <img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="450" height="auto" /><br/>
 <span style="text-align:left;font-size:0.4em;">(illustration from <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this book</a>)</span>
 </p>
-Baaj, Ismaïl. "On learning capacities of Sugeno integrals with systems of fuzzy relational equations." arXiv preprint arXiv:2408.07768 (2024). [PDF/DOI](https://doi.org/10.1016/j.fss.2024.109142).
+Baaj, Ismaïl. "On learning capacities of Sugeno integrals with systems of fuzzy relational equations." arXiv preprint arXiv:2408.07768 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2408.07768).
 
 <details><summary>bibtex</summary>```@ARTICLE{2023arXiv231103059B,
        author = {{Baaj}, Isma{\"\i}l},
@@ -107,7 +107,7 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2025 July). On learning capacities of Sugeno integrals with systems of fuzzy relational equations. FUZZ IEEE 2025. To appear (accepted). [Preprint](https://doi.org/10.1016/j.fss.2024.109142).
+Baaj, I. (2025 July). On learning capacities of Sugeno integrals with systems of fuzzy relational equations. FUZZ IEEE 2025. To appear (accepted). [Preprint](https://doi.org/10.48550/arXiv.2408.07768).
 
 Strauss, 0., Rico, A. & Baaj, I. (2025, July). A new backpropagation method dedicated for learning a max-min neural network. FUZZ IEEE 2025. To appear (accepted).
 
