@@ -18,7 +18,7 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
-*NEW! Check [Π-NeSy](https://arxiv.org/abs/2504.07055): A Possibilistic Neuro-Symbolic Approach ([code](https://github.com/ibaaj/pi-nesy)).*
+**NEW! Check [Π-NeSy](https://arxiv.org/abs/2504.07055): A Possibilistic Neuro-Symbolic Approach ([code](https://github.com/ibaaj/pi-nesy)).**
 
 ## <a name="preprints"></a>Preprints
 ( [my arXiv RSS feed ](https://arxiv.org/a/baaj_i_1.atom) )
