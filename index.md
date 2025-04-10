@@ -32,7 +32,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 </p>
 
 
-Baaj, Ismaïl and Marquis, Pierre "Π-NeSy: A Possibilistic Neuro-Symbolic Approach" arXiv preprint arXiv:2504.07055 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055).
+Baaj, Ismaïl and Marquis, Pierre "Π-NeSy: A Possibilistic Neuro-Symbolic Approach" arXiv preprint arXiv:2504.07055 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055),  [code](https://github.com/ibaaj/pi-nesy).
 <details><summary>bibtex</summary>```@article{baaj2025pinesy,
       title={$\Pi$-NeSy: A Possibilistic Neuro-Symbolic Approach}, 
       author={Ismaïl Baaj and Pierre Marquis},
