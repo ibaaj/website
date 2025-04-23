@@ -31,8 +31,19 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 <span style="text-align:left;font-size:0.4em;">(illustration from <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this book</a>)</span>
 </p>
 
+Baaj, Ismaïl. "Approximate matrices of systems of max-min fuzzy relational equations" arXiv preprint arXiv:2504.16042 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2504.16042).
+<details><summary>bibtex</summary>```@article{baaj2025approxmatrices,
+      title={Approximate matrices of systems of max-min fuzzy relational equations}, 
+      author={Ismaïl Baaj},
+      year={2025},
+      eprint={2504.16042},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2504.16042},
+}```</details>
 
-Baaj, Ismaïl and Marquis, Pierre "Π-NeSy: A Possibilistic Neuro-Symbolic Approach" arXiv preprint arXiv:2504.07055 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055),  [code](https://github.com/ibaaj/pi-nesy).
+
+Baaj, Ismaïl and Marquis, Pierre. "Π-NeSy: A Possibilistic Neuro-Symbolic Approach" arXiv preprint arXiv:2504.07055 (2024). [PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055),  [code](https://github.com/ibaaj/pi-nesy).
 <details><summary>bibtex</summary>```@article{baaj2025pinesy,
       title={$\Pi$-NeSy: A Possibilistic Neuro-Symbolic Approach}, 
       author={Ismaïl Baaj and Pierre Marquis},
