@@ -138,33 +138,34 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2025 July). On learning capacities of Sugeno integrals with systems of fuzzy relational equations. FUZZ IEEE 2025. To appear (accepted). [Preprint](https://doi.org/10.48550/arXiv.2408.07768).
+Baaj, I. (2025). Matrices approchées de systèmes d'équations relationnelles floues de type max-min In Rencontres francophones sur la logique floue et ses applications.  Cepadues. To appear.
+
+
+Baaj, I. (2025). On learning capacities of Sugeno integrals with systems of fuzzy relational equations. FUZZ IEEE 2025. To appear (accepted). [Preprint](https://doi.org/10.48550/arXiv.2408.07768).
 
 Strauss, 0., Rico, A. & Baaj, I. (2025, July). A new backpropagation method dedicated for learning a max-min neural network. FUZZ IEEE 2025. To appear (accepted).
-
-
 
 Baaj, I. (2024). On the handling of inconsistent systems based on max-product and max-Lukasiewicz compositions. Fuzzy Sets and Systems. ISSN 0165-0114. [DOI](https://doi.org/10.1016/j.fss.2024.109142).
 
 
-Baaj, I. (2024, November). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues. Cepadues. To appear.
+Baaj, I. (2024). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. To appear.
 
-Strauss, 0., Rico, A., Baaj, I. & Chevrollier-Mehat, A. (2024, November). Apprentissage d'un réseau de neurones MaxMin. Cepadues. To appear.
+Strauss, 0., Rico, A., Baaj, I. & Chevrollier-Mehat, A. (2024, November). Apprentissage d'un réseau de neurones MaxMin. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. To appear.
 
 Baaj, I., Bouraoui, Z., Cornuéjols, A., Denœux, T., Destercke, S., Dubois, D.,  Lesot M., Marques-Silva J.,  Mengin J., Prade H., Schockaert S., Serrurier M., Strauss O. &  Vrain, C. (2024). Synergies Between Machine Learning and Reasoning - An Introduction by the Kay R. Amel group. International Journal of Approximate Reasoning, 109206. [DOI](https://doi.org/10.1016/j.ijar.2024.109206).
 
 Baaj, I. (2024).  On the handling of inconsistent systems of max-min fuzzy relational equations,
 Fuzzy Sets and Systems. 2024. 108912. ISSN 0165-0114. [DOI](https://doi.org/10.1016/j.fss.2024.108912).
 
-Baaj, I. (2023, November). Approximations de Tchebyshev d'un système incompatible d'équations relationnelles floues de type max-T. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-04306807v1/document).
+Baaj, I. (2023). Approximations de Tchebyshev d'un système incompatible d'équations relationnelles floues de type max-T. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-04306807v1/document).
 
-Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022, October). Réseau de neurones et logique: un cadre qualitatif. Cepadues. [PDF](https://hal.science/hal-03859391v1/document).
+Baaj, I.,  Dubois, D., Faux, F., Prade, H., Rico A. & Strauss, O. (2022). Réseau de neurones et logique: un cadre qualitatif. Cepadues. [PDF](https://hal.science/hal-03859391v1/document).
 
-Baaj, I., & Rico, A.  (2022, October). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. 
+Baaj, I., & Rico, A.  (2022). Intégrales qualitatives avec l'implication et la conjonction de Gödel : élicitation et extraction de règles. Cepadues. 
 
-Baaj, I. (2022, October). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-03859322v1/document).
+Baaj, I. (2022). Apprentissage des paramètres des règles d’un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications. Cepadues. [PDF](https://hal.science/hal-03859322v1/document).
 
-Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882626) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
+Baaj, I. (2022). Learning Rule Parameters of Possibilistic Rule-Based System. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882626) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
  @INPROCEEDINGS{baaj2022learning,
   author={Baaj, Ismaïl},
   booktitle={2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, 
@@ -181,7 +182,7 @@ Baaj, I. (2022, July). Learning Rule Parameters of Possibilistic Rule-Based Syst
  }```
 </details>
 
-Baaj, I., & Rico, A. (2022, July). Qualitative integrals with Gödel's implication and conjunction: elicitation and if-then rules extraction. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882800) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems).<details><summary>bibtex</summary>```
+Baaj, I., & Rico, A. (2022). Qualitative integrals with Gödel's implication and conjunction: elicitation and if-then rules extraction. In 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/FUZZ-IEEE55066.2022.9882800) - [code](https://github.com/ibaaj/learning-possibilistic-rule-based-systems).<details><summary>bibtex</summary>```
  @INPROCEEDINGS{baaj2022qualitative,
   author={Baaj, Ismaïl and Rico, Agnès},
   booktitle={2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, 
@@ -214,7 +215,7 @@ Baaj, I. (2022). Explainability of possibilistic and fuzzy rule-based systems (D
 }```
 </details>
 
-Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, October). Inférence min-max pour un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications (pp. 233-240). Cepadues. [PDF](https://hal-cea.archives-ouvertes.fr/cea-03402616/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@inproceedings{baaj:cea-03402616,
+Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021). Inférence min-max pour un système à base de règles possibilistes. In Rencontres francophones sur la logique floue et ses applications (pp. 233-240). Cepadues. [PDF](https://hal-cea.archives-ouvertes.fr/cea-03402616/document) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```@inproceedings{baaj:cea-03402616,
   TITLE = {{Inf{\'e}rence min-max pour un syst{\`e}me {\`a} base de r{\`e}gles possibilistes}},
   AUTHOR = {BAAJ, Isma{\"i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
   URL = {https://hal-cea.archives-ouvertes.fr/cea-03402616},
@@ -234,7 +235,7 @@ Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, October). Inférence mi
 }```
 </details>
 
-Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, September). Representation of Explanations of Possibilistic Inference Decisions. In European Conference on Symbolic and Quantitative Approaches with Uncertainty (pp. 513-527). Springer, Cham. [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems).<details><summary>bibtex</summary>```
+Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021). Representation of Explanations of Possibilistic Inference Decisions. In European Conference on Symbolic and Quantitative Approaches with Uncertainty (pp. 513-527). Springer, Cham. [DOI](http://dx.doi.org/10.1007/978-3-030-86772-0_37) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems).<details><summary>bibtex</summary>```
 @inproceedings{baaj2021representation,
   title={Representation of Explanations of Possibilistic Inference Decisions},
   author={Baaj, Isma{\"\i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
@@ -245,7 +246,7 @@ Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, September). Representat
 }```
 </details>
 
-Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021, July). Min-max inference for Possibilistic Rule-Based System. In 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-6). IEEE. [DOI](https://doi.org/10.1109/FUZZ45933.2021.9494506) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
+Baaj, I., Poli, J. P., Ouerdane, W., & Maudet, N. (2021). Min-max inference for Possibilistic Rule-Based System. In 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 1-6). IEEE. [DOI](https://doi.org/10.1109/FUZZ45933.2021.9494506) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems). <details><summary>bibtex</summary>```
 @inproceedings{baaj2021min,
   title={Min-max inference for Possibilistic Rule-Based System},
   author={Baaj, Isma{\"\i}l and Poli, Jean-Philippe and Ouerdane, Wassila and Maudet, Nicolas},
@@ -266,7 +267,7 @@ Baaj, I., Poli, J. P., & Ouerdane, W. (2019). Some insights towards a unified se
 }```
 </details>
 
-Baaj, I., & Poli, J. P. (2019, June). Natural language generation of explanations of fuzzy inference decisions. In 2019 IEEE international conference on fuzzy systems (FUZZ-IEEE) (pp. 1-6). IEEE. 
+Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of fuzzy inference decisions. In 2019 IEEE international conference on fuzzy systems (FUZZ-IEEE) (pp. 1-6). IEEE. 
 [DOI](https://doi.org/10.1109/FUZZ-IEEE.2019.8858994). <details><summary>bibtex</summary>```
 @inproceedings{baaj2019natural,
   title={Natural language generation of explanations of fuzzy inference decisions},
