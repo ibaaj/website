@@ -291,3 +291,4 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
 ## <a name="misc"></a> Miscellaneous
 
 - [My scientific genealogy](https://raw.githubusercontent.com/ibaaj/website/master/scientificgenealogy.pdf) ([source](https://github.com/ibaaj/scientific-genealogy))
+- A [photo](https://ismailbaaj.fr/ChimborazoSummit.jpg) of Chimborazo that I took in 2016
