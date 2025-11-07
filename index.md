@@ -138,7 +138,7 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 ## <a name="publications"></a>Publications
 
-Baaj, I. (2025). Matrices approchées de systèmes d'équations relationnelles floues de type max-min. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. To appear.
+Baaj, I. (2025). Matrices approchées de systèmes d'équations relationnelles floues de type max-min. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. __Best paper awards__
 
 
 Baaj, I. (2025). On learning capacities of Sugeno integrals with systems of fuzzy relational equations. FUZZ IEEE 2025. [DOI](https://doi.org/10.1109/FUZZ62266.2025.11152109).  [Preprint](https://doi.org/10.48550/arXiv.2408.07768).
