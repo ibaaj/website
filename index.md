@@ -5,7 +5,7 @@
 - [Preprints](#preprints)
 - [Publications](#publications)
 - [Contact](#contact)
-- [Program Committees and Journal Reviewing](#pg)
+- [Reviewing](#pg)
 - [Teachings](#teach)
 - [Miscellaneous](#misc)
 
@@ -290,7 +290,7 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
   Fingerprint: FBA9890E004C8EF3EAF0A97D45996126A5B189DB - 
   ```curl https://ismailbaaj.fr/ibpk.asc | gpg --import```
 
-## <a name="pg"></a> Program Committees and Journal Reviewing
+## <a name="pg"></a> Reviewing
 
 I was a member of the programme committee of FUZZ IEEE 2025, ECAI 2025, LFA 2025, EGC NeuroSym4MLLM 2025.
 
