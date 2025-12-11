@@ -293,7 +293,7 @@ I have been a reviewer for the following journals: Fuzzy Sets and Systems, Inter
 
 ## <a name="teach"></a> Teachings
 
-I teach and coordinate the courses `Machine learning for credit scoring` ([Master 2 ISF 2024-2025, 2025-2026](https://isf.assas-universite.fr/fr)), `Computer Networks` ([Licence MOD, 2025-2026](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation))
+I teach and coordinate the courses `Machine learning for credit scoring` ([Master 2 ISF 2024-2025, 2025-2026](https://isf.assas-universite.fr/fr)), `Computer Networks` ([Licence MOD, 2025-2026](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation)).
 
 
 ## <a name="contact"></a>Contact
