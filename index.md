@@ -293,11 +293,12 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
 ## <a name="pg"></a> Program Committees and Journal Reviewing
 
 I was a member of the programme committee of FUZZ IEEE 2025, ECAI 2025, LFA 2025, EGC NeuroSym4MLLM 2025.
+
 I have been a reviewer for the following journals: Fuzzy Sets and Systems, International Journal of Approximate Reasoning.
 
 ## <a name="teach"></a> Teachings
 
-Machine learning for credit scoring ([CM, Master 2 ISF 2024-2025, 2025-2026](https://isf.assas-universite.fr/fr)), Computer Networks ([CM, Licence MOD, 2025-2026](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation))
+I teach and coordinate the courses `Machine learning for credit scoring` ([Master 2 ISF 2024-2025, 2025-2026](https://isf.assas-universite.fr/fr)), `Computer Networks` ([Licence MOD, 2025-2026](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation))
 
 
 
