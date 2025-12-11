@@ -4,9 +4,9 @@
 - [About](#about)
 - [Preprints](#preprints)
 - [Publications](#publications)
-- [Contact](#contact)
 - [Reviewing](#pg)
 - [Teachings](#teach)
+- [Contact](#contact)
 - [Miscellaneous](#misc)
 
 ## <a name="about"></a>About
@@ -283,12 +283,6 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
 </details>
 
 
-## <a name="contact"></a>Contact
-- LEMMA, Université Paris-Panthéon-Assas, 4 rue Blaise Desgoffe 75006 Paris
-- ismail.baaj _(at)_ assas-universite _(.)_ fr
-- PGP: [Download public key](https://ismailbaaj.fr/ibpk.asc) - 
-  Fingerprint: FBA9890E004C8EF3EAF0A97D45996126A5B189DB - 
-  ```curl https://ismailbaaj.fr/ibpk.asc | gpg --import```
 
 ## <a name="pg"></a> Reviewing
 
@@ -296,9 +290,18 @@ I was a member of the programme committee of FUZZ IEEE 2025, ECAI 2025, LFA 2025
 
 I have been a reviewer for the following journals: Fuzzy Sets and Systems, International Journal of Approximate Reasoning.
 
+
 ## <a name="teach"></a> Teachings
 
 I teach and coordinate the courses `Machine learning for credit scoring` ([Master 2 ISF 2024-2025, 2025-2026](https://isf.assas-universite.fr/fr)), `Computer Networks` ([Licence MOD, 2025-2026](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation))
+
+
+## <a name="contact"></a>Contact
+- LEMMA, Université Paris-Panthéon-Assas, 4 rue Blaise Desgoffe 75006 Paris
+- ismail.baaj _(at)_ assas-universite _(.)_ fr
+- PGP: [Download public key](https://ismailbaaj.fr/ibpk.asc) - 
+  Fingerprint: FBA9890E004C8EF3EAF0A97D45996126A5B189DB - 
+  ```curl https://ismailbaaj.fr/ibpk.asc | gpg --import```
 
 
 
