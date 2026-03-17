@@ -139,6 +139,9 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 
 ## <a name="publications"></a>Publications
+Baaj, I. & Prade, H. (2026, June). A possibilistic calculus of guarantees. To appear in IPMU 2026.
+
+Baaj, I., Bloch, I., Rico, A., & Strauss, 0. (2026, June). A Max–Min Neural Network Model for Propositional Fuzzy Logic. To appear in IPMU 2026.
 
 Baaj, I. (2025). Matrices approchées de systèmes d'équations relationnelles floues de type max-min. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. 
 [Best paper award](https://ismailbaaj.fr/LFA2025BP.pdf). [Preprint](https://doi.org/10.48550/arXiv.2504.16042).
