@@ -156,7 +156,7 @@ Baaj, I. (2024). On the handling of inconsistent systems based on max-product an
 
 Baaj, I. (2024). Sur l’apprentissage de capacités pour les intégrales de Sugeno avec des systèmes d’équations relationnelles floues. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. To appear.
 
-Strauss, 0., Rico, A., Baaj, I. & Chevrollier-Mehat, A. (2024, November). Apprentissage d'un réseau de neurones MaxMin. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. To appear.
+Strauss, 0., Rico, A., Baaj, I. & Chevrollier-Mehat, A. (2024, November). Apprentissage d'un réseau de neurones MaxMin. In Rencontres francophones sur la logique floue et ses applications.  Cepadues.
 
 Baaj, I., Bouraoui, Z., Cornuéjols, A., Denœux, T., Destercke, S., Dubois, D.,  Lesot M., Marques-Silva J.,  Mengin J., Prade H., Schockaert S., Serrurier M., Strauss O. &  Vrain, C. (2024). Synergies Between Machine Learning and Reasoning - An Introduction by the Kay R. Amel group. International Journal of Approximate Reasoning, 109206. [DOI](https://doi.org/10.1016/j.ijar.2024.109206).
 
