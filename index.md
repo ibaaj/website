@@ -139,6 +139,8 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 
 ## <a name="publications"></a>Publications
+Baaj, I. (2026, June). Maximal Consistent Subsystems of Max-T Fuzzy Relational Equations. To appear in FUZZ IEEE 2026.
+
 Baaj, I. & Prade, H. (2026, June). A possibilistic calculus of guarantees. To appear in IPMU 2026.
 
 Baaj, I., Bloch, I., Rico, A., & Strauss, 0. (2026, June). A Max–Min Neural Network Model for Propositional Fuzzy Logic. To appear in IPMU 2026.
@@ -291,7 +293,7 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
 
 I was a member of the programme committee of FUZZ IEEE 2025, ECAI 2025, LFA 2025, EGC NeuroSym4MLLM 2025, FUZZ IEEE 2026, CNIA2026.
 
-I have been a reviewer for the following journals: Fuzzy Sets and Systems, International Journal of Approximate Reasoning.
+I have been a reviewer for the following journals: Fuzzy Sets and Systems, International Journal of Approximate Reasoning, International Journal of General Systems.
 
 
 ## <a name="teach"></a> Teachings
