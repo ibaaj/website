@@ -20,7 +20,8 @@ I studied before mathematics and computer science applied to cryptology at Paris
 
 ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-8924)
 
-**NEW! Discover [Π-NeSy](https://arxiv.org/abs/2504.07055): A Possibilistic Neuro-Symbolic Approach ([PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055),  [code](https://github.com/ibaaj/pi-nesy)).**
+**NEW! Check this new preprint: [Probabilistic classification from possibilistic data: computing Kullback-Leibler projection with a possibility distribution](https://arxiv.org/abs/2604.01939) ([PDF/DOI](https://arxiv.org/abs/2604.01939), [code](https://github.com/ibaaj/probabilistic-classification-from-possibilistic-data)). 
+Discover [Π-NeSy](https://arxiv.org/abs/2504.07055): A Possibilistic Neuro-Symbolic Approach ([PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055),  [code](https://github.com/ibaaj/pi-nesy)).**
 
 ## <a name="preprints"></a>Preprints
 ( [my arXiv RSS feed ](https://arxiv.org/a/baaj_i_1.atom) )
@@ -32,6 +33,19 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 <img src="https://raw.githubusercontent.com/ibaaj/website/master/FRE.png" align="center" width="450" height="auto" /><br/>
 <span style="text-align:left;font-size:0.4em;">(illustration from <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this book</a>)</span>
 </p>
+
+Baaj, Ismaïl and Marquis, Pierre. "Probabilistic classification from possibilistic data: computing Kullback-Leibler projection with a possibility distribution" arXiv preprint arXiv:2604.01939 (2026). ([PDF/DOI](https://doi.org/10.48550/arXiv.2604.01939),  [code](https://github.com/ibaaj/probabilistic-classification-from-possibilistic-data)).
+<details><summary>bibtex</summary>```@article{baaj2026probabilistic,
+      title={Probabilistic classification from possibilistic data: computing
+             Kullback-Leibler projection with a possibility distribution},
+      author={Isma\"{i}l Baaj and Pierre Marquis},
+      year={2026},
+      eprint={2604.01939},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.01939},
+}```</details>
+
 
 Baaj, Ismaïl. "Approximate matrices of systems of max-min fuzzy relational equations" arXiv preprint arXiv:2504.16042 (2025). [PDF/DOI](https://doi.org/10.48550/arXiv.2504.16042).
 <details><summary>bibtex</summary>```@article{baaj2025approxmatrices,
