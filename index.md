@@ -34,6 +34,18 @@ Discover [Π-NeSy](https://arxiv.org/abs/2504.07055): A Possibilistic Neuro-Symb
 <span style="text-align:left;font-size:0.4em;">(illustration from <a href="https://link.springer.com/book/10.1007/978-94-015-9540-7">this book</a>)</span>
 </p>
 
+Baaj, Ismaïl and Prade, Henri. "A Sugeno Integral View of Binarized Neural Network Inference" arXiv preprint arXiv:2604.17967 (2026). [PDF/DOI](https://doi.org/10.48550/arXiv.2604.17967).
+<details><summary>bibtex</summary>```@article{baaj2026sugenoBNN,
+      title={A Sugeno Integral View of Binarized Neural Network Inference},
+      author={Isma\"{i}l Baaj and Prade Henri},
+      year={2026},
+      eprint={2604.17967},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.17967},
+}```</details>
+
+
 Baaj, Ismaïl and Marquis, Pierre. "Probabilistic classification from possibilistic data: computing Kullback-Leibler projection with a possibility distribution" arXiv preprint arXiv:2604.01939 (2026). ([PDF/DOI](https://doi.org/10.48550/arXiv.2604.01939),  [code](https://github.com/ibaaj/probabilistic-classification-from-possibilistic-data)).
 <details><summary>bibtex</summary>```@article{baaj2026probabilistic,
       title={Probabilistic classification from possibilistic data: computing
