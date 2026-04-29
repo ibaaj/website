@@ -340,4 +340,4 @@ I teach and coordinate the courses `Machine learning for credit scoring` ([Maste
 
 - [My scientific genealogy](https://raw.githubusercontent.com/ibaaj/website/master/scientificgenealogy.pdf) ([source](https://github.com/ibaaj/scientific-genealogy))
 - A [photo](https://ismailbaaj.fr/ChimborazoSummit.jpg) of Chimborazo that I took in 2016
-- UTMB Index: [626](https://utmb.world/fr/runner/980149.ismail.baaj)
+- Best UTMB Index: [645](https://utmb.world/fr/runner/980149.ismail.baaj)
