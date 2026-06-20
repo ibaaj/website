@@ -10,7 +10,7 @@
 - [Miscellaneous](#misc)
 
 ## <a name="about"></a>About
-<img align="right" style="margin-left: 1.5rem; margin-bottom: 0.8rem; " width="50%" height="50%" src="https://raw.githubusercontent.com/ibaaj/website/master/me-new-crop50.jpg">
+<img align="right" style="margin-left: 1.5rem; margin-bottom: 0.8rem; width: 50%; height: auto; "  src="https://raw.githubusercontent.com/ibaaj/website/master/me-new-crop50.jpg">
 
 I am an Associate Professor (Lecturer, Maître de Conférences) of Computer Science at Paris II Panthéon-Assas University in the [Lemma](http://lemma.u-paris2.fr/) laboratory. I was a postdoctoral researcher at [CRIL, University of Artois](http://www.cril.univ-artois.fr/) between 2022 and 2024. Prior to this, I defended my PhD thesis in Artificial Intelligence entitled "Explainability of possibilistic and fuzzy rule-based systems" (eXplainable Artificial Intelligence, Knowledge Representation and Reasoning, Possibility theory, Fuzzy reasoning) on January 27th, 2022 at Sorbonne University ([LIP6](https://www.lip6.fr/) laboratory). [PDF](https://tel.archives-ouvertes.fr/tel-03647652/document) - [slides](https://raw.githubusercontent.com/ibaaj/website/master/these-slides.pdf) - [code](https://github.com/ibaaj/explainability-of-possibilistic-rule-based-systems) - [french summary](https://raw.githubusercontent.com/ibaaj/website/master/summary-dissertation.pdf).
 
