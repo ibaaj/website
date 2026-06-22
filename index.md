@@ -317,7 +317,7 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
 
 ## <a name="pg"></a> Reviewing
 
-I was a member of the programme committee of FUZZ IEEE 2025, ECAI 2025, LFA 2025, EGC NeuroSym4MLLM 2025, FUZZ IEEE 2026, CNIA2026.
+I was a member of the programme committee of FUZZ IEEE 2025, ECAI 2025, LFA 2025, EGC NeuroSym4MLLM 2025, FUZZ IEEE 2026, CNIA 2026, LFA 2026.
 
 I have been a reviewer for the following journals: Fuzzy Sets and Systems, International Journal of Approximate Reasoning, International Journal of General Systems.
 
