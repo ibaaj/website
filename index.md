@@ -165,6 +165,12 @@ Baaj, Ismaïl. "Max-min Learning of Approximate Weight Matrices From Fuzzy Data.
 
 
 ## <a name="publications"></a>Publications
+Baaj, I. (2026). On the handling of inconsistent systems based on min-implication compositions.  International Journal of General Systems. [DOI](https://doi.org/10.1080/03081079.2026.2737671).
+
+Baaj, I. & Prade, H. (2026). Représentation de l'inférence des réseaux de neurones binarisés par intégrales de Sugeno. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. 
+
+Baaj, I., Bloch, I., Rico, A., & Strauss, 0. (2026). Un réseau de neurones max-min pour la logique floue propositionnelle. In Rencontres francophones sur la logique floue et ses applications.  Cepadues. 
+
 Baaj, I. (2026, June). Maximal Consistent Subsystems of Max-T Fuzzy Relational Equations. FUZZ IEEE 2026. [DOI](https://doi.org/10.1109/FUZZ69877.2026.11626380) [Preprint](https://doi.org/10.48550/arXiv.2311.03059).
 
 Baaj, I. & Prade, H. (2026, June). A possibilistic calculus of guarantees. IPMU 2026. Best paper award. [DOI](https://doi.org/10.1007/978-3-032-28994-0_26).
@@ -324,7 +330,7 @@ I have been a reviewer for the following journals: Fuzzy Sets and Systems, Inter
 
 ## <a name="teach"></a> Teachings
 
-I teach and coordinate the courses `Machine learning for credit scoring` ([Master 2 ISF 2024-2025, 2025-2026](https://isf.assas-universite.fr/fr)), `Computer Networks` ([Licence MOD, 2025-2026](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation)).
+I teach and coordinate the courses `Machine learning for credit scoring` ([Master 2 ISF 2024-2025, 2025-2026, 2026-2027](https://isf.assas-universite.fr/fr)), `Computer Networks` ([Licence MOD, 2025-2026, 2026-2027](https://www.assas-universite.fr/fr/formations/offre-de-formation/licence-en-gestion-parcours-management-organisations-digitalisation)), `Methods for data collection and analysis`([Master 2 APE, 2026-2027](https://www.assas-universite.fr/fr/master-analyse-politique-economique-ape-parcours-recherches-en-sciences-economiques)).
 
 
 ## <a name="contact"></a>Contact
