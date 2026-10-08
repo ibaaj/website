@@ -4,6 +4,7 @@
 - [About](#about)
 - [Preprints](#preprints)
 - [Publications](#publications)
+- [Supervision](#sv)
 - [Reviewing](#pg)
 - [Teachings](#teach)
 - [Contact](#contact)
@@ -23,6 +24,7 @@ ORCID: [https://orcid.org/0000-0001-5135-8924](https://orcid.org/0000-0001-5135-
 **NEW! Check this new preprint: [Probabilistic classification from possibilistic data: computing Kullback-Leibler projection with a possibility distribution](https://arxiv.org/abs/2604.01939) ([PDF/DOI](https://arxiv.org/abs/2604.01939), [code](https://github.com/ibaaj/probabilistic-classification-from-possibilistic-data)). 
 Discover [Π-NeSy](https://arxiv.org/abs/2504.07055): A Possibilistic Neuro-Symbolic Approach ([PDF/DOI](https://doi.org/10.48550/arXiv.2504.07055),  [code](https://github.com/ibaaj/pi-nesy)).**
 
+I joined [ANR ERARE](https://www.cril.univ-artois.fr/projects/erare/) in October 2026.
 ## <a name="preprints"></a>Preprints
 ( [my arXiv RSS feed ](https://arxiv.org/a/baaj_i_1.atom) )
 
@@ -319,7 +321,9 @@ Baaj, I., & Poli, J. P. (2019). Natural language generation of explanations of f
 }```
 </details>
 
+## <a name="sv"></a> Supervision
 
+[Giuseppe Manes](https://www.irit.fr/departement/intelligence-artificielle/adria/), PhD Student at IRIT, University of Toulouse (with Florence Dupin de Saint-Cyr and Henri Prade).
 
 ## <a name="pg"></a> Reviewing
 
